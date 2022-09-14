@@ -1,2 +1,5 @@
-# c-programming
-basics of C programming
+#include<stdio.h>
+int main() {
+printf("hello world")
+return 0
+}
